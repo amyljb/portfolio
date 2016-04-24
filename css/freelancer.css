@@ -237,10 +237,8 @@ section.success a.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.caption-content h2{
+.item-text-sub{
     font-size: 12px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 /*attempt to move item text on hover of item*/
