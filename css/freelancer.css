@@ -274,6 +274,10 @@ section.success a.active {
     margin-left:100px;
 }*/
 
+.item-text-sub{
+    font-weight: 700;
+}
+
 #portfolio * {
     z-index: 2;
 }
