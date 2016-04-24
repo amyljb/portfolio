@@ -235,8 +235,8 @@ section.success a.active {
     opacity: 1;
 }
 
-/*#item-text{
-    display:none;
+#item-text{
+    margin-bottom:20px;
 }
 
 /*attempt to move item text on hover of item*/
