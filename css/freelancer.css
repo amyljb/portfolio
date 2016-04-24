@@ -230,7 +230,7 @@ section.success a.active {
     opacity: 1;
 }
 
-.item-text{
+/*.item-text{
     margin-bottom:50px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -239,7 +239,7 @@ section.success a.active {
 .item-text-sub{
     font-size: 20px;
     margin-bottom: 70px;
-}
+}*/
 
 /*attempt to move item text on hover of item*/
 #portfolio .portfolio-item .portfolio-link .caption:hover item-text {
