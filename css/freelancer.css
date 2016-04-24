@@ -255,7 +255,7 @@ section.success a.active {
   height: 20px;
   font-size: 10px;
   text-align: center;
-  /*top: 50%;*/
+  top: 10px;
   margin-top: -12px;
   color: white;
 }
