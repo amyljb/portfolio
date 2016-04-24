@@ -269,10 +269,10 @@ section.success a.active {
     margin: 0;
 }
 
-.caption-text{
+/*.caption-text{
     margin-bottom: 20px;
     margin-left:100px;
-}
+}*/
 
 #portfolio * {
     z-index: 2;
