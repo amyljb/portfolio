@@ -234,7 +234,14 @@ section.success a.active {
 #portfolio .portfolio-item .portfolio-link:hover h1 {
     -webkit-transform: translateY(145px);
             transform: translateY(145px);
+            display: none;
 }
+
+/*hide text until hover*/
+#portfolio .portfolio-item .portfolio-link h1.hidden {
+    visibility: hidden;
+}
+
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
