@@ -236,11 +236,11 @@ section.success a.active {
 }
 
 /*attempt to move item text on hover of item*/
-/*#portfolio .portfolio-item .portfolio-link .caption:hover item-text {
+#portfolio .portfolio-item .portfolio-link .caption:hover item-text {
     display:block;
     -webkit-transform: translateY(100px);
             transform: translateY(100px);
-}*/
+}
 
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
