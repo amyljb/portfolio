@@ -230,6 +230,12 @@ section.success a.active {
     opacity: 1;
 }
 
+/*attempt to move item text on hover of item*/
+#portfolio .portfolio-item .portfolio-link:hover h1 {
+    -webkit-transform: translateY(145px);
+            transform: translateY(145px);
+}
+
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
