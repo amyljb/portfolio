@@ -238,7 +238,7 @@ section.success a.active {
 }
 
 /*hide text until hover*/
-#portfolio .portfolio-item .portfolio-link h1.hidden {
+#portfolio .portfolio-item .portfolio-link h1 {
     visibility: hidden;
 }
 
