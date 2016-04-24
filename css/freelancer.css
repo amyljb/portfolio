@@ -255,10 +255,14 @@ section.success a.active {
   height: 50px;
   font-size: 20px;
   text-align: center;
-  top: 10%;
+  top: 25%;
   margin-top: -20px;
   color: white;
   font-weight: 700;
+}
+
+.item-text type1{
+    font-size: 12px;
 }
 
 /*#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
