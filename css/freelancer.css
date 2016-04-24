@@ -232,7 +232,12 @@ section.success a.active {
 }
 
 #item-text{
-    margin-bottom:20px;
+    margin-bottom:50px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.caption-content h2{
     font-size: 12px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
