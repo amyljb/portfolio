@@ -270,6 +270,10 @@ section.success a.active {
     margin: 0;
 }
 
+.caption-text{
+    margin-bottom: 20px;
+}
+
 #portfolio * {
     z-index: 2;
 }
