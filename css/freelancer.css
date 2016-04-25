@@ -494,6 +494,7 @@ footer .footer-below {
     float: left;
 }
 
+
 .sliding_btn {
     color: #a7a6a4;
     background: #FFF;
@@ -520,10 +521,18 @@ footer .footer-below {
     font-size: 34px;
 }
 
+.hover-container {
+    margin: 0 auto;
+    max-width: 300px;
+    max-height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
 .hover-caption {
     position: absolute;
     overflow: hidden;
-    float: left;
 }
 
 .hover-caption::before {
