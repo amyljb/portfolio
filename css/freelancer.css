@@ -491,7 +491,6 @@ footer .footer-below {
 .btn-container{
     /*display:block;*/
     position: relative;
-    overflow: hidden;
     float: left;
 }
 
