@@ -488,6 +488,10 @@ footer .footer-below {
     opacity: 0;
 }
 
+.btn-container{
+    display:inline-block;
+}
+
 .sliding_btn {
     color: #a7a6a4;
     background: #FFF;
