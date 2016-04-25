@@ -513,3 +513,51 @@ footer .footer-below {
     color: #FFF;
     font-size: 34px;
 }
+
+.hover-caption {
+    position: relative;
+    overflow: hidden;
+}
+
+.hover-caption::before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.hover-caption:hover::before {
+    
+    background-image: url("portfolio/img/portfolio/overlay2.png");
+}
+
+.caption-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+    transition: -webkit-transform .25s ease-out;
+    transition:         transform .25s ease-out;
+}
+
+.hover-caption:hover .caption-overlay {
+    -webkit-transform: translateY(145px);
+            transform: translateY(145px);
+}
+
+.caption-overlay a {
+    
+    text-decoration: none;
+    color: white;
+    font-family: 'OpenSansBold', sans-serif;
+    font-size: 18px;
+    
+}
