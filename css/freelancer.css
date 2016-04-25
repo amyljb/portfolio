@@ -261,6 +261,10 @@ section.success a.active {
   font-weight: 700;
 }
 
+#portfolio .portfolio-item .portfolio-link .caption .caption-content version1{
+    top: 20%;
+}
+
 /*#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }*/
