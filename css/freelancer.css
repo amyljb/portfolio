@@ -489,7 +489,10 @@ footer .footer-below {
 }
 
 .btn-container{
-    display:block;
+    /*display:block;*/
+    position: relative;
+    overflow: hidden;
+    float: left;
 }
 
 .sliding_btn {
@@ -535,7 +538,7 @@ footer .footer-below {
 
 .hover-caption:hover::before {
     
-    background-image: url("img/portfolio/overlay-2.png");
+    background-image:url("img/portfolio/overlay-2.png");
 }
 
 .caption-overlay {
