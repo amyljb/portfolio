@@ -549,8 +549,8 @@ footer .footer-below {
 }
 
 .hover-caption:hover .caption-overlay {
-    -webkit-transform: translateY(145px);
-            transform: translateY(145px);
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
 }
 
 .caption-overlay a {
