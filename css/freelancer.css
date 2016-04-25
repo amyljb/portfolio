@@ -489,7 +489,7 @@ footer .footer-below {
 }
 
 .btn-container{
-    display:inline;
+    display:block;
 }
 
 .sliding_btn {
@@ -521,6 +521,7 @@ footer .footer-below {
 .hover-caption {
     position: relative;
     overflow: hidden;
+    float: left;
 }
 
 .hover-caption::before {
