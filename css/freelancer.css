@@ -522,7 +522,7 @@ footer .footer-below {
 }
 
 .hover-caption {
-    position: relative;
+    position: absolute;
     overflow: hidden;
     float: left;
 }
