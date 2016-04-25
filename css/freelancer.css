@@ -530,7 +530,7 @@ footer .footer-below {
 
 .hover-caption:hover::before {
     
-    background-image: url("portfolio/img/portfolio/overlay2.png");
+    background-image: url("img/portfolio/overlay2.png");
 }
 
 .caption-overlay {
